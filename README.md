@@ -89,4 +89,4 @@ src/
 
 ## 参考
 
-- 官方文档：https://docs.nodeloc.com/（[llms.txt](https://docs.nodeloc.com/llms.txt)）
+- 官方文档：https://docs.nodeloc.com/ （[llms.txt](https://docs.nodeloc.com/llms.txt)）
